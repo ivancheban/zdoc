@@ -1,4 +1,5 @@
-baseURL = "http://example.org"
+baseURL = "/"
+themesDir = "themes"
 title = "Hugo Zdoc Theme"
 theme = "zdoc"
 
